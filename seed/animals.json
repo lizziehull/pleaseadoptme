@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Tilly",
+    "species": "Dog",
+    "breed": "Labrador",
+    "age": 8,
+    "location": "Sheffield",
+    "shelter": "Despondent Dogs",
+    "contact": "fake_email1@gmail.com",
+    "description": "Tilly likes to play and is suitable for children over 5. Big garden a necessity!",
+    "imageURL": "https://www.wikihow.com/images/6/64/Stop-a-Dog-from-Jumping-Step-6-Version-2.jpg"
+  },
+  {
+    "name": "Sebastian",
+    "species": "Cat",
+    "breed": "Russian Blue",
+    "age": 2,
+    "location": "Bristol",
+    "shelter": "Meow Palace",
+    "contact": "fake_email2@gmail.com",
+    "description": "Sebastian doesn't like anything except Nietzsche and slow-tempo jazz music. He will tolerate being petted twice a month.",
+    "imageURL": "https://4.bp.blogspot.com/-qC8JuR7EAyw/WJRTNB-Ni6I/AAAAAAAAIkw/EVxWk-wSG4cQIetEtKkECh77aQnJL-J-ACLcB/s1600/IMG_7279.JPG"
+  },
+  {
+    "name": "Angel",
+    "species": "Guinea Pig",
+    "breed": "Teddy",
+    "age": 3,
+    "location": "Edinburgh",
+    "shelter": "Super Furry Animals",
+    "contact": "fake_email3@gmail.com",
+    "description": "Very small. Very cute. Likes lemonade and chick-lit.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/77/Small_Guinea_Pig.jpg"
+  }
+]
